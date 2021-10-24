@@ -10,4 +10,5 @@ Landing page for ChargePoool
 - Clone repo
 - create branch
 - do changes
-- add, commit them
+- add, commit then push
+## Others plz write your message below
